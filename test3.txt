@@ -1,0 +1,1 @@
+test3 dosyamızı oluşturduk ve içindeki ilk yazılar bunlar.
